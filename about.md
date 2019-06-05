@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![My place](/images/532_Park.gif)
 
 Hello World!
 
